@@ -4,7 +4,7 @@
   "authors": "@denvergeeks",
   "about_url": "https://github.com/denvergeeks/jens-discourse-classic-theme-mods/blob/main/common/common.scss",
   "license_url": "TODO: Put your theme's LICENSE URL here",
-  "learn_more": "<a href=\"https://github.com/denvergeeks/jens-discourse-classic-theme-mods/blob/main/common/common.scss\" target=\"_blank\">CSS on Github</a>",
+  "learn_more": "https://github.com/denvergeeks/jens-discourse-classic-theme-mods/blob/main/common/common.scss",
   "theme_version": "0.0.1",
   "minimum_discourse_version": null,
   "maximum_discourse_version": null,
