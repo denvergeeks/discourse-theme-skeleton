@@ -128,7 +128,7 @@ html:not(.mobile-view) body.algolia-enabled .algolia-holder {
 }
 
 .topic-owner .post-menu-area .actions button.reply {
-    border-radius: 5px 0 0 0;
+    border-radius: 5px 0 0 0 !important;
 }
 
 nav.post-controls .show-replies {
