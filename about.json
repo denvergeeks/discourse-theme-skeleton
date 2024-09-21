@@ -2,7 +2,7 @@
   "name": "Jens Discourse Classic Theme Mods",
   "component": true,
   "authors": "@denvergeeks",
-  "about_url": "TODO: Put your theme's public repo or Meta topic URL here",
+  "about_url": "https://github.com/denvergeeks/jens-discourse-classic-theme-mods/blob/main/common/common.scss",
   "license_url": "TODO: Put your theme's LICENSE URL here",
   "learn_more": "TODO",
   "theme_version": "0.0.1",
