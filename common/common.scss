@@ -127,6 +127,10 @@ html:not(.mobile-view) body.algolia-enabled .algolia-holder {
     /* background: none !important; */
 }
 
+.topic-owner .post-menu-area .actions button.reply {
+    border-radius: 5px 0 0 0;
+}
+
 nav.post-controls .show-replies {
     display: flex !important;
     align-items: center !important;
